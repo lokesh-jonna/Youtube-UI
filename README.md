@@ -1,6 +1,6 @@
 <h1 id="youtube-ui-clone">Youtube UI Clone</h1>
 
-<p>A project which aims to clone YouTube UI by using HTML & CSS. </p>
+<p>Code to clone the user inerface of the youtube using HTML and CSS </p>
 <br>
 
 <h2 id="tech-stack-used">Tools</h2>
