@@ -3,7 +3,7 @@
 <p>Code to clone the user inerface of the youtube using HTML and CSS </p>
 <br>
 
-<h2 id="tech-stack-used">Tools</h2>
+<h2 id="tech-stack-used">Tools Used</h2>
 <br>
 
 <p><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
