@@ -9,13 +9,13 @@
 <p><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
-<h2 id="how-to-use">How to use:</h2>
+<h2 id="how-to-use">How to use</h2>
 <br>
 
 <ul>
   <li>Download or clone the repository</li>
 <pre><code>
-  https://github.com/lokesh-jonna/Youtube-UI
+  git clone github.com/lokesh-jonna/Youtube-UI.git
 </code></pre>
   <li>Go to the directory</li>
   <li>Run the index.html file in your browser</li>
